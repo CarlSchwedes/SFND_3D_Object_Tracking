@@ -1,0 +1,4 @@
+build/
+*.zip
+*.mkv
+dat/yolo/*.weights
